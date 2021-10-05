@@ -3,7 +3,7 @@
 
 ## Te raden woord
 
-|c|o|o|.|i|e|.|i|
+|c|o|o|k|i|e|.|i|
 |-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|
 
@@ -28,3 +28,4 @@ res7: g0
 req8: c
 res8: 1c
 req9: k
+res9: 4k
