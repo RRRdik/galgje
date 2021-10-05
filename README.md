@@ -1,3 +1,4 @@
+
 # Galgje
 
 ## Te raden woord
@@ -24,3 +25,4 @@ req6: o
 res6: 2o 3o
 req7: g
 res7: g0
+req8: c
