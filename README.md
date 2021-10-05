@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|8|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 req1: e
@@ -15,3 +15,4 @@ res1: 6e
 req2: i
 res2: 5i 8i
 req3: m
+res3: m0
