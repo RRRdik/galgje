@@ -29,3 +29,4 @@ req8: c
 res8: 1c
 req9: k
 res9: 4k
+req10: z
