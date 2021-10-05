@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|.|i|e|.|i|
+|.|o|o|.|i|e|.|i|
 |-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|
 
@@ -20,4 +20,5 @@ req4: a
 res4: a0
 req5: n
 res5: n0
-req: o
+req6: o
+res6: 2o 3o
